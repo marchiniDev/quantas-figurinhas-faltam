@@ -1,0 +1,16 @@
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\bin\Debug\net5.0\GFT-Desafio2-CS.exe
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\bin\Debug\net5.0\GFT-Desafio2-CS.deps.json
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\bin\Debug\net5.0\GFT-Desafio2-CS.runtimeconfig.json
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\bin\Debug\net5.0\GFT-Desafio2-CS.runtimeconfig.dev.json
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\bin\Debug\net5.0\GFT-Desafio2-CS.dll
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\bin\Debug\net5.0\ref\GFT-Desafio2-CS.dll
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\bin\Debug\net5.0\GFT-Desafio2-CS.pdb
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.csprojAssemblyReference.cache
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.AssemblyInfoInputs.cache
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.AssemblyInfo.cs
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.csproj.CoreCompileInputs.cache
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.dll
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\ref\GFT-Desafio2-CS.dll
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.pdb
+D:\Documents\Dev\Projetos\GFT-Desafio2-CS\obj\Debug\net5.0\GFT-Desafio2-CS.genruntimeconfig.cache

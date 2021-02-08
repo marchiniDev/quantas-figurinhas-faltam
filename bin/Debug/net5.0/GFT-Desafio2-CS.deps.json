@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GFT-Desafio2-CS/1.0.0": {
+        "runtime": {
+          "GFT-Desafio2-CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GFT-Desafio2-CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
